@@ -1,5 +1,5 @@
 # 👋 Hi there:
-Welcome to my GitHub profile! I'm a passionate Backend Engineer specializing in Node.js, Express.js, and AWS Serverless technologies. <br>Here's a bit about me and what I do.<br><br>🔭 I’m currently working on: Express JS, AWS Serverless Technologies<br>👯 I’m looking to collaborate on: Interesting Full-Stack Projects<br>🌱 I’m currently learning: Generative AI<br>
+Welcome to my GitHub profile! I'm a passionate Backend Engineer specializing in Node.js, Express.js, and AWS Serverless technologies. <br>Here's a bit about me and what I do.<br><br>🔭 <b>I’m currently working on:</b> Express JS, AWS Serverless Technologies<br>👯 <b>I’m looking to collaborate on:</b> Interesting Full-Stack Projects<br>🌱 <b>I’m currently learning:</b> Generative AI<br>
 
 
 ## 🌐 Socials:
