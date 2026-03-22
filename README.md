@@ -1,109 +1,18 @@
-<p align="left">## Hi there 👋</p>
+# 👋 Hi there:
+Welcome to my GitHub profile! I'm a passionate Backend Engineer specializing in Node.js, Express.js, and AWS Serverless technologies. <br>Here's a bit about me and what I do.<br><br>🔭 I’m currently working on: Express JS, AWS Serverless Technologies<br>👯 I’m looking to collaborate on: Interesting Full-Stack Projects<br>🌱 I’m currently learning: Generative AI<br>
 
-###
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate Backend Engineer specializing in Node.js, Express.js, and AWS Serverless technologies. Here's a bit about me and what I do.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilesh-sanyal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nileshsanyal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Nilesh-Sanyal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nileshsanyal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nil2take1@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=flat&logo=Handlebars.js&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=flat&logo=jasmine&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat&logo=codecov&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NileshSanyal&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NileshSanyal&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NileshSanyal&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">## 🛠 Skills</p>
+---
+[![](https://visitcount.itsvg.in/api?id=NileshSanyal&icon=4&color=12)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="data:image/jpeg;base64,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" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvaGUNW0Lc0P2wgKoYZDQaienWAuyB6N-nkMzZrxs0qvRgFZlrG01uoMwV_giOdnyyQtM&usqp=CAU" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" height="40" alt="mongoose logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" height="40" alt="aws lambda logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" height="40" alt="aws dynamodb logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" height="40" alt="aws s3 logo" />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:638/1*-zZ3z2blYGcCi-FGPGYP_g.png" height="40" alt="aws sqs logo" />
-  <img width="12" />
-  <img src="https://d2908q01vomqb2.cloudfront.net/632667547e7cd3e0466547863e1207a8c0c0c549/2023/06/01/Amazon-SES.png" height="40" alt="aws ses logo" />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9I-ZORkt8BWMhz95GE9x6NDVK5n3uOmwQleQcknmCVfw20QS5B4h0wF4fCmeWwt6tvE&usqp=CAU" height="40" alt="aws rds logo" />
-  <img width="12" />  
-</div>
-
-###
-
-<p align="left">## 🌱 Currently Learning</p>
-
-###
-
-<p align="left">I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deeper into:</p>
-
-###
-
-<p align="left">**Generative AI**</p>
-
-###
-
-<p align="left">**React Js**</p>
-
-###
-
-<p align="left">## 📝 Latest Blog Posts</p>
-
-###
-
-<p align="left">- [The Most Incredible Article About AWS Networking Essentials](https://dev.to/nileshsanyal/the-most-incredible-article-about-aws-networking-essentials-37de)</p>
-
-###
-
-<p align="left">- [Javascript Callback Functions In Depth Guide for 2019](https://dev.to/nileshsanyal/javascript-callback-functions-in-depth-guide-for-2019-gj7)</p>
-
-###
-
-<p align="left">- [Promises In Javascript A Complete Guide For 2019](https://dev.to/nileshsanyal/promises-in-javascript-a-complete-guide-for-2019-4o99)</p>
-
-###
-
-<p align="left">- [A Complete Guide To Passport JS Part 1](https://dev.to/nileshsanyal/a-complete-guide-to-passport-js-part-1-443)</p>
-
-###
-
-<p align="left">## 🌐 Connect with Me</p>
-
-###
-
-<p align="left">I'm always open to interesting opportunities and collaborations. Feel free to reach out to me.</p>
-
-###
-
-<div align="left">
-  <a href="https://in.linkedin.com/in/nilesh-sanyal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href= "mailto: nil2take1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href= "https://medium.com/@nileshsanyal" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:8978/1*s986xIGqhfsN8U--09_AdA.png" width="52" height="40" alt="medium logo"  />
-  </a>  
-  <a href= "https://dev.to/nileshsanyal" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" width="52" height="40" alt="dev.to logo"  /> 
-  </a>
-  <a href="https://www.quora.com/profile/Nilesh-Sanyal" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPs3OtbSutAj04E4poEq5kFNnoofCf-daBfw&s" width="52" height="40" alt="quora logo />
-  </a>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
